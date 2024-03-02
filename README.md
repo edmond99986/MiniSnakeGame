@@ -36,7 +36,7 @@ Therefore, I will also remove all overlapping roadblocks upon resuming the game.
 
 <h2>Playstyle & Guide:</h2>
 
-<p align="center">
+<p >
 Press `Arrow Keys` to control the snake. <br/>
 <img src="https://i.imgur.com/oW7H5Or.png" height="80%" width="80%" alt="miniSnkaeGame"/>
 <img src="https://i.imgur.com/VGxrSCu.png" height="80%" width="80%" alt="miniSnkaeGame"/>
